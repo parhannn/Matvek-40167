@@ -24,4 +24,4 @@ Program ini dibuat oleh:
 
 # Dokumentasi
 
-Dokumentasi program dapat dilihat <a href="">DI SINI.</a>
+Dokumentasi program dapat dilihat <a href="https://github.com/parhannn/Matvek-40167/tree/main/doc">DI SINI.</a>
