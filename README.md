@@ -11,7 +11,7 @@ dijadikan basis dalam operasi baris elementer.
 Program ini dapat mencari solusi dari beberapa persoalan, yaitu:
 - SPL yang memiliki solusi unik, dan menampilkan solusinya
 - SPL yang memiliki solusi tak terbatas, dan menampilkan solusinya dalam bentuk parameter
-- SPL yang tidak memiliki solusi, dengan menampilkan tulian "Tidak memiliki solusi."
+- SPL yang tidak memiliki solusi, dengan menampilkan tulisan "Tidak memiliki solusi."
 
 # Anggota Kelompok
 
