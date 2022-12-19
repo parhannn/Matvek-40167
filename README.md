@@ -27,11 +27,13 @@ Program ini dapat mencari solusi dari beberapa persoalan, yaitu:
 
 ## Anggota Kelompok
 
+![GitHub contributors](https://img.shields.io/github/contributors/scottydocs/README-template.md)
+
 Program ini dibuat oleh:
 1. Wuri Wilatiningsih (121140167) 
 2. Andrean Syahrezi (121140169)
 3. M. Bintang Erlangga H. (121140171)
-4. Farhan Apri Kesuma (121140179) ![Instagram Follow](https://img.shields.io/instagram/follow/prhnnn_ak/?style=social)
+4. Farhan Apri Kesuma (121140179)
 5. Muhammad Fabil (121140189)
 
 ## Dokumentasi
