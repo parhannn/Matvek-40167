@@ -16,7 +16,7 @@ Program ini dapat mencari solusi dari beberapa persoalan, yaitu:
 ## Persyaratan Sistem
 - Ada CPU
 - Ada RAM
-- Butuh penyimpanan 3 Mb - 4 Mb
+- Butuh penyimpanan 1 Mb - 2 Mb
 - Os Win Xp/7/8/10/11
 
 ## Cara Menginstall
