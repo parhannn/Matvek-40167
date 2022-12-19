@@ -13,11 +13,20 @@ Program ini membutuhkan sebuah library bernama os. Pastikan module tersebut tela
 
 ## Menjalankan Program
 
-Untuk menjalankan program, pastikan lokasi anda berada pada directory "/program/". Setelah itu jalankan program dengan mengetikkan perintah ini.
-
+1. Pertama, buka command prompt.
+2. Kedua, pastikan drive berada di drive C:, jika belum gunakan command di bawah ini.
+```
+C:
+```
+3. Ketiga, pastikan directory berada di file \program\, jika belum gunakan command di bawah ini.
+```
+cd Matvek\program
+```
+4. Jalankan program main dengan menggunakan command di bawah ini.
 ```
 main.py
 ```
+SELAMAT MENCOBA, GUYS ;)
 
 ## Menu Program
 
@@ -44,23 +53,26 @@ kami buat dan ditampilkan bentuk akhir matriksnya. Setelah itu, nilai pada baris
 kolom yang sama akan membagi bilangan pada ujung baris tiap kolom lalu
 ditampilkan solusinya.
 
+<img src="KybrdVResult.jpeg">
+
 ## MENU: Input Values from Test Case 1
 
-<img src="KybrdVResult.jpeg">
+<img src ="File Value.jpeg">
 
 Saat user memilih menu ini, maka program akan menggunakan value atau nilai dari
 file yang sudah diimpor yakni file TestCase1 dan TestCase2, Dengan mengakses nilai
 dari Matrix (List matriks) dan ManyRow(Banyak baris) user tak perlu menginputkan
 nilai secara manual. Setelah itu, program akan mengolah nilai dari list menjadi sebuah
 matrix augmented dan ditampilkan, setelah itu diproses dengan eliminasi Gauss-Jordan
-dan ditampilkan bentuk akhir matriksnya dan terakhir dicari solusinya. 
-
-## MENU: Input Values from Test Case 2
+dan ditampilkan bentuk akhir matriksnya dan terakhir dicari solusinya.
 
 <img src="FlVResult.jpeg">
 
-Untuk TestCase2 sama saja prosesnya hanya beda value atau nilainya saja.
+## MENU: Input Values from Test Case 2
 
+<img src="Test Case 2.jpeg">
+
+Untuk TestCase2 sama saja prosesnya hanya beda value atau nilainya saja.W
 
 ## MENU: Exit
 
@@ -72,4 +84,4 @@ berhenti.
 ## Informasi Tambahan
 
 Kami hanya menggunakan data pada tes uji yang pertama, oleh karena itu file data uji kedua pada
-menu yang ketiga tidak kami gunakan karena tidak termasuk dalam eksperimen kami.
+menu yang ketiga tidak kami masukan ke dalam laporan kami karena tidak termasuk dalam eksperimen kami.
