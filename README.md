@@ -31,7 +31,7 @@ Program ini dibuat oleh:
 1. Wuri Wilatiningsih (121140167) 
 2. Andrean Syahrezi (121140169)
 3. M. Bintang Erlangga H. (121140171)
-4. Farhan Apri Kesuma (121140179) [@parhannn](https://github.com/parhannn)
+4. Farhan Apri Kesuma (121140179)
 5. Muhammad Fabil (121140189)
 
 ## Dokumentasi
