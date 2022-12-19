@@ -21,8 +21,9 @@ Program ini dapat mencari solusi dari beberapa persoalan, yaitu:
 
 ## Cara Menginstall
 1. Klik <a href="https://github.com/parhannn/Matvek-40167/archive/refs/heads/main.zip">DOWNLOAD</a>
-2. Setelah itu ekstrak file .zip tadi di penyimpanan C:
-3. Voila! Program siap dijalankan
+2. Setelah itu ekstrak file Matvek-04167.zip di penyimpanan C:
+3. Setelah diekstrak dan menjadi folder ubah nama folder menjadi "Matevk" agar tidak terjadi kesalahan saat pindah folder di command prompt
+4. Voila! Program siap dijalankan
 
 ## Anggota Kelompok
 
