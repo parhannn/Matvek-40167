@@ -27,7 +27,7 @@ Program ini dapat mencari solusi dari beberapa persoalan, yaitu:
 
 ## Anggota Kelompok
 
-![GitHub contributors](https://img.shields.io/github/contributors/parhannn/README.md)
+![GitHub contributors](https://img.shields.io/github/contributors/parhannn/Matvek-40167/README.md)
 
 Program ini dibuat oleh:
 1. Wuri Wilatiningsih (121140167) 
