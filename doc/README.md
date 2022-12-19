@@ -21,6 +21,8 @@ main.py
 
 ## Menu Program
 
+<img src="Main Menu.jpeg">
+
 Setelah program dijalankan, program akan menampilkan sebuah menu utama. Menu-menu tersebut diantaranya:
 1. Input Values from Keyboard
 2. Input Values from Test Case 1
