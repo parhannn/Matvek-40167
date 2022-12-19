@@ -27,7 +27,7 @@ Program ini dapat mencari solusi dari beberapa persoalan, yaitu:
 
 ## Anggota Kelompok
 
-![GitHub contributors](https://img.shields.io/github/contributors/scottydocs/README-template.md)
+![GitHub contributors](https://img.shields.io/github/contributors/parhannn/README.md)
 
 Program ini dibuat oleh:
 1. Wuri Wilatiningsih (121140167) 
