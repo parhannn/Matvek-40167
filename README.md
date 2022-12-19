@@ -1,4 +1,4 @@
-# Program Penyelesaian SPL dengan Gauss-Jordan
+## Program Penyelesaian SPL dengan Gauss-Jordan
 
 Tugas besar ini adalah membuat program untuk menghitung solusi dari Sistem
 Persamaan Linear (SPL) secara numerik dengan bahasa Python. SPL dapat memiliki solusi
@@ -13,14 +13,25 @@ Program ini dapat mencari solusi dari beberapa persoalan, yaitu:
 - SPL yang memiliki solusi tak terbatas, dan menampilkan solusinya dalam bentuk parameter
 - SPL yang tidak memiliki solusi, dengan menampilkan tulisan "Tidak memiliki solusi."
 
+# Persyaratan Sistem
+- Ada CPU
+- Ada RAM
+- Butuh penyimpanan 3 Mb - 4 Mb
+- Os Win Xp/7/8/10/11
+
+# Cara Menginstall
+1. Klik <a href="https://github.com/parhannn/Matvek-40167/archive/refs/heads/main.zip">DOWNLOAD</a>
+2. Setelah itu ekstrak file .zip tadi
+3. Voila! Program siap dijalankan
+
 # Anggota Kelompok
 
 Program ini dibuat oleh:
-- Wuri Wilatiningsih (121140167)
-- Andrean Syahrezi (121140169)
-- M. Bintang Erlangga H. (121140171)
-- Farhan Apri Kesuma (121140179)
-- Muhammad Fabil (121140189)
+1. Wuri Wilatiningsih (121140167)
+2. Andrean Syahrezi (121140169)
+3. M. Bintang Erlangga H. (121140171)
+4. Farhan Apri Kesuma (121140179)
+5. Muhammad Fabil (121140189)
 
 # Dokumentasi
 
