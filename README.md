@@ -27,13 +27,11 @@ Program ini dapat mencari solusi dari beberapa persoalan, yaitu:
 
 ## Anggota Kelompok
 
-![GitHub contributors](https://img.shields.io/github/contributors/parhannn/Matvek-40167/README.md)
-
 Program ini dibuat oleh:
 1. Wuri Wilatiningsih (121140167) 
 2. Andrean Syahrezi (121140169)
 3. M. Bintang Erlangga H. (121140171)
-4. Farhan Apri Kesuma (121140179)
+4. Farhan Apri Kesuma (121140179) [@parhannn](https://github.com/parhannn)
 5. Muhammad Fabil (121140189)
 
 ## Dokumentasi
