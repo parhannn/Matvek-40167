@@ -72,7 +72,7 @@ dan ditampilkan bentuk akhir matriksnya dan terakhir dicari solusinya.
 
 <img src="Test Case 2.jpeg">
 
-Untuk TestCase2 sama saja prosesnya hanya beda value atau nilainya saja.W
+Untuk TestCase2 sama saja prosesnya hanya beda value atau nilainya saja.
 
 ## MENU: Exit
 
