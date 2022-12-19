@@ -31,6 +31,8 @@ Setelah program dijalankan, program akan menampilkan sebuah menu utama. Menu-men
 
 ## MENU: Input Values from Keyboard
 
+<img src="Keyboard Value.jpeg">
+
 Saat user memilih menu ini, maka user diharuskan memasukan nilai x1, x2, x3, …,
 dst secara manual. Pertama user akan memasukan banyak baris, lalu user akan
 memasukkan banyak kolom. Kemudian nilai x1, x2, x3, …, xN akan dimasukan oleh
@@ -44,6 +46,8 @@ ditampilkan solusinya.
 
 ## MENU: Input Values from Test Case 1
 
+<img src="KybrdVResult.jpeg">
+
 Saat user memilih menu ini, maka program akan menggunakan value atau nilai dari
 file yang sudah diimpor yakni file TestCase1 dan TestCase2, Dengan mengakses nilai
 dari Matrix (List matriks) dan ManyRow(Banyak baris) user tak perlu menginputkan
@@ -53,10 +57,19 @@ dan ditampilkan bentuk akhir matriksnya dan terakhir dicari solusinya.
 
 ## MENU: Input Values from Test Case 2
 
+<img src="FlVResult.jpeg">
+
 Untuk TestCase2 sama saja prosesnya hanya beda value atau nilainya saja.
 
 
 ## MENU: Exit
 
+<img src="Exit.jpeg">
+
 Saat user memilih menu ini, tentu saja program akan melakukan “break” atau
 berhenti.
+
+## Informasi Tambahan
+
+Kami hanya menggunakan data pada tes uji yang pertama, oleh karena itu file data uji kedua pada
+menu yang ketiga tidak kami gunakan karena tidak termasuk dalam eksperimen kami.
