@@ -28,10 +28,10 @@ Program ini dapat mencari solusi dari beberapa persoalan, yaitu:
 ## Anggota Kelompok
 
 Program ini dibuat oleh:
-1. Wuri Wilatiningsih (121140167)
+1. Wuri Wilatiningsih (121140167) 
 2. Andrean Syahrezi (121140169)
 3. M. Bintang Erlangga H. (121140171)
-4. Farhan Apri Kesuma (121140179)
+4. Farhan Apri Kesuma (121140179) ![Instagram Follow](https://www.instagram.com/prhnnn_ak/?hl=id)
 5. Muhammad Fabil (121140189)
 
 ## Dokumentasi
